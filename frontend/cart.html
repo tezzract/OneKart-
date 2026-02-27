@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shopping Cart - Amazon Clone</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="navbar">
+    <a href="index.html" class="navbar-logo">
+      <span>amazon<span class="logo-suffix">.clone</span></span>
+    </a>
+    <form class="navbar-search" id="searchForm">
+      <select id="searchCategory"><option value="">All</option></select>
+      <input type="text" id="searchInput" placeholder="Search Amazon Clone">
+      <button type="submit">&#128269;</button>
+    </form>
+    <div class="navbar-links">
+      <a href="login.html" class="nav-link" id="navAccount">
+        <span class="nav-line1">Hello, Sign in</span>
+        <span class="nav-line2">Account & Lists</span>
+      </a>
+      <a href="cart.html" class="nav-link nav-cart">
+        <span class="cart-count" id="cartCount">0</span>
+        <span class="cart-icon">&#128722;</span>
+        <span class="nav-line2">Cart</span>
+      </a>
+    </div>
+  </nav>
+
+  <!-- CART -->
+  <div class="cart-page" id="cartPage">
+    <div class="cart-items" id="cartItems">
+      <h1>Shopping Cart</h1>
+      <div class="loading">Loading cart...</div>
+    </div>
+    <div class="cart-summary" id="cartSummary">
+      <h3>Order Summary</h3>
+      <div class="subtotal">Subtotal (0 items): <span>$0.00</span></div>
+      <button class="btn-checkout" onclick="alert('Checkout coming soon!')">Proceed to Checkout</button>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script src="js/cart.js"></script>
+</body>
+</html>

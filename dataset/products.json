@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1, "title": "Wireless Bluetooth Headphones", "price": 59.99, "originalPrice": 89.99,
+    "description": "Premium wireless headphones with active noise cancellation, 30-hour battery life, and comfortable over-ear design. Features Bluetooth 5.0 connectivity.",
+    "image": "https://via.placeholder.com/400x400?text=Headphones",
+    "category": "Electronics", "categoryId": 1, "rating": 4.5, "reviews": 2847, "inStock": true, "prime": true
+  },
+  {
+    "id": 2, "title": "Smart Watch Fitness Tracker", "price": 129.99, "originalPrice": 179.99,
+    "description": "Advanced fitness tracker with heart rate monitor, GPS, sleep tracking, and 7-day battery. Water resistant to 50m.",
+    "image": "https://via.placeholder.com/400x400?text=SmartWatch",
+    "category": "Electronics", "categoryId": 1, "rating": 4.3, "reviews": 5621, "inStock": true, "prime": true
+  },
+  {
+    "id": 3, "title": "USB-C Fast Charger 65W", "price": 24.99, "originalPrice": 39.99,
+    "description": "GaN technology 65W USB-C fast charger compatible with laptops, tablets, and phones. Compact and travel-friendly.",
+    "image": "https://via.placeholder.com/400x400?text=Charger",
+    "category": "Electronics", "categoryId": 1, "rating": 4.7, "reviews": 8934, "inStock": true, "prime": true
+  },
+  {
+    "id": 4, "title": "4K Ultra HD Webcam", "price": 79.99, "originalPrice": 109.99,
+    "description": "Professional 4K webcam with auto-focus, built-in microphone, and adjustable ring light. Perfect for streaming and video calls.",
+    "image": "https://via.placeholder.com/400x400?text=Webcam",
+    "category": "Electronics", "categoryId": 1, "rating": 4.4, "reviews": 1203, "inStock": true, "prime": false
+  },
+  {
+    "id": 5, "title": "The Art of Programming", "price": 34.99, "originalPrice": 49.99,
+    "description": "Comprehensive guide to modern software development covering algorithms, data structures, and best practices. 800+ pages.",
+    "image": "https://via.placeholder.com/400x400?text=Programming+Book",
+    "category": "Books", "categoryId": 2, "rating": 4.8, "reviews": 3456, "inStock": true, "prime": true
+  },
+  {
+    "id": 6, "title": "Sci-Fi Novel: Beyond the Stars", "price": 12.99, "originalPrice": 18.99,
+    "description": "Award-winning science fiction novel exploring the boundaries of human exploration across the galaxy. A page-turner.",
+    "image": "https://via.placeholder.com/400x400?text=SciFi+Novel",
+    "category": "Books", "categoryId": 2, "rating": 4.6, "reviews": 7823, "inStock": true, "prime": true
+  },
+  {
+    "id": 7, "title": "Cookbook: World Flavors", "price": 27.50, "originalPrice": 35.00,
+    "description": "200+ recipes from around the world with step-by-step instructions and beautiful photography. Hardcover edition.",
+    "image": "https://via.placeholder.com/400x400?text=Cookbook",
+    "category": "Books", "categoryId": 2, "rating": 4.5, "reviews": 1567, "inStock": true, "prime": false
+  },
+  {
+    "id": 8, "title": "Self-Help: Mindful Living", "price": 15.99, "originalPrice": 22.99,
+    "description": "Transform your daily routine with practical mindfulness techniques. Bestseller with over 1 million copies sold.",
+    "image": "https://via.placeholder.com/400x400?text=SelfHelp+Book",
+    "category": "Books", "categoryId": 2, "rating": 4.2, "reviews": 4521, "inStock": true, "prime": true
+  },
+  {
+    "id": 9, "title": "Men's Classic Fit Cotton T-Shirt", "price": 19.99, "originalPrice": 29.99,
+    "description": "Premium 100% cotton crew neck t-shirt. Pre-shrunk, comfortable fit. Available in 12 colors.",
+    "image": "https://via.placeholder.com/400x400?text=TShirt",
+    "category": "Clothing", "categoryId": 3, "rating": 4.1, "reviews": 12045, "inStock": true, "prime": true
+  },
+  {
+    "id": 10, "title": "Women's Running Shoes", "price": 74.99, "originalPrice": 99.99,
+    "description": "Lightweight running shoes with responsive cushioning and breathable mesh upper. Great for daily training.",
+    "image": "https://via.placeholder.com/400x400?text=Running+Shoes",
+    "category": "Clothing", "categoryId": 3, "rating": 4.4, "reviews": 6789, "inStock": true, "prime": true
+  },
+  {
+    "id": 11, "title": "Unisex Waterproof Jacket", "price": 89.99, "originalPrice": 129.99,
+    "description": "Lightweight waterproof jacket with sealed seams, adjustable hood, and packable design. Perfect for hiking.",
+    "image": "https://via.placeholder.com/400x400?text=Jacket",
+    "category": "Clothing", "categoryId": 3, "rating": 4.6, "reviews": 3421, "inStock": true, "prime": true
+  },
+  {
+    "id": 12, "title": "Denim Jeans Slim Fit", "price": 44.99, "originalPrice": 59.99,
+    "description": "Classic slim-fit denim jeans with stretch comfort. Durable construction with a modern look.",
+    "image": "https://via.placeholder.com/400x400?text=Jeans",
+    "category": "Clothing", "categoryId": 3, "rating": 4.3, "reviews": 8976, "inStock": true, "prime": false
+  },
+  {
+    "id": 13, "title": "Stainless Steel Cookware Set (10-Piece)", "price": 149.99, "originalPrice": 229.99,
+    "description": "Professional-grade stainless steel cookware set. Includes pots, pans, and lids. Dishwasher and oven safe.",
+    "image": "https://via.placeholder.com/400x400?text=Cookware",
+    "category": "Home & Kitchen", "categoryId": 4, "rating": 4.7, "reviews": 4532, "inStock": true, "prime": true
+  },
+  {
+    "id": 14, "title": "Robot Vacuum Cleaner", "price": 249.99, "originalPrice": 349.99,
+    "description": "Smart robot vacuum with laser navigation, 2500Pa suction, and automatic emptying. Works with Alexa and Google Home.",
+    "image": "https://via.placeholder.com/400x400?text=Robot+Vacuum",
+    "category": "Home & Kitchen", "categoryId": 4, "rating": 4.5, "reviews": 6234, "inStock": true, "prime": true
+  },
+  {
+    "id": 15, "title": "Memory Foam Pillow (2-Pack)", "price": 39.99, "originalPrice": 59.99,
+    "description": "Cooling gel memory foam pillows with breathable bamboo cover. Ergonomic design for side and back sleepers.",
+    "image": "https://via.placeholder.com/400x400?text=Pillow",
+    "category": "Home & Kitchen", "categoryId": 4, "rating": 4.4, "reviews": 9876, "inStock": true, "prime": true
+  },
+  {
+    "id": 16, "title": "Air Fryer 5.8 Quart", "price": 69.99, "originalPrice": 99.99,
+    "description": "Digital air fryer with 8 preset cooking functions, non-stick basket, and rapid air technology. BPA-free.",
+    "image": "https://via.placeholder.com/400x400?text=Air+Fryer",
+    "category": "Home & Kitchen", "categoryId": 4, "rating": 4.6, "reviews": 15234, "inStock": true, "prime": true
+  },
+  {
+    "id": 17, "title": "Yoga Mat Premium 6mm", "price": 29.99, "originalPrice": 44.99,
+    "description": "Non-slip yoga mat with alignment lines, eco-friendly TPE material, and carrying strap. 72\" x 24\".",
+    "image": "https://via.placeholder.com/400x400?text=Yoga+Mat",
+    "category": "Sports & Outdoors", "categoryId": 5, "rating": 4.5, "reviews": 7654, "inStock": true, "prime": true
+  },
+  {
+    "id": 18, "title": "Adjustable Dumbbell Set", "price": 199.99, "originalPrice": 279.99,
+    "description": "Adjustable dumbbells from 5-52.5 lbs each. Quick-change weight system replaces 15 sets of dumbbells.",
+    "image": "https://via.placeholder.com/400x400?text=Dumbbells",
+    "category": "Sports & Outdoors", "categoryId": 5, "rating": 4.7, "reviews": 3245, "inStock": true, "prime": true
+  },
+  {
+    "id": 19, "title": "Camping Tent 4-Person", "price": 119.99, "originalPrice": 169.99,
+    "description": "Waterproof 4-person dome tent with easy setup. Includes rainfly, gear loft, and storage pockets.",
+    "image": "https://via.placeholder.com/400x400?text=Tent",
+    "category": "Sports & Outdoors", "categoryId": 5, "rating": 4.3, "reviews": 2134, "inStock": true, "prime": false
+  },
+  {
+    "id": 20, "title": "Resistance Bands Set (5-Pack)", "price": 14.99, "originalPrice": 24.99,
+    "description": "Latex-free resistance bands with 5 resistance levels. Includes door anchor, handles, and carry bag.",
+    "image": "https://via.placeholder.com/400x400?text=Resistance+Bands",
+    "category": "Sports & Outdoors", "categoryId": 5, "rating": 4.4, "reviews": 11234, "inStock": true, "prime": true
+  },
+  {
+    "id": 21, "title": "Building Blocks Set (1000 Pieces)", "price": 34.99, "originalPrice": 49.99,
+    "description": "Creative building blocks set with 1000 pieces in 15 colors. Compatible with major brands. Ages 4+.",
+    "image": "https://via.placeholder.com/400x400?text=Building+Blocks",
+    "category": "Toys & Games", "categoryId": 6, "rating": 4.8, "reviews": 5678, "inStock": true, "prime": true
+  },
+  {
+    "id": 22, "title": "Strategy Board Game", "price": 42.99, "originalPrice": 54.99,
+    "description": "Award-winning strategy board game for 2-5 players. Average playtime 60-90 minutes. Ages 10+.",
+    "image": "https://via.placeholder.com/400x400?text=Board+Game",
+    "category": "Toys & Games", "categoryId": 6, "rating": 4.7, "reviews": 8901, "inStock": true, "prime": true
+  },
+  {
+    "id": 23, "title": "RC Drone with Camera", "price": 89.99, "originalPrice": 129.99,
+    "description": "Beginner-friendly drone with 1080p camera, 20-min flight time, and one-key return. Includes carrying case.",
+    "image": "https://via.placeholder.com/400x400?text=Drone",
+    "category": "Toys & Games", "categoryId": 6, "rating": 4.2, "reviews": 3456, "inStock": true, "prime": false
+  },
+  {
+    "id": 24, "title": "Puzzle 1000 Pieces - World Map", "price": 16.99, "originalPrice": 24.99,
+    "description": "Premium quality 1000-piece jigsaw puzzle featuring a detailed vintage world map. Finished size 27\" x 20\".",
+    "image": "https://via.placeholder.com/400x400?text=Puzzle",
+    "category": "Toys & Games", "categoryId": 6, "rating": 4.5, "reviews": 2345, "inStock": true, "prime": true
+  }
+]

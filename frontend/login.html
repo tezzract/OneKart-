@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sign In - Amazon Clone</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body style="background:#fff;">
+
+  <div class="auth-page">
+    <div class="auth-logo">
+      <a href="index.html" style="color:#0f1111; text-decoration:none;">amazon<span style="color:#f90;">.clone</span></a>
+    </div>
+
+    <!-- LOGIN FORM -->
+    <div class="auth-box" id="loginBox">
+      <h1>Sign In</h1>
+      <div class="auth-error" id="loginError"></div>
+      <form id="loginForm">
+        <label for="loginEmail">Email</label>
+        <input type="email" id="loginEmail" placeholder="Enter your email" required>
+        <label for="loginPassword">Password</label>
+        <input type="password" id="loginPassword" placeholder="Enter your password" required>
+        <button type="submit" class="btn-auth">Sign In</button>
+      </form>
+      <p style="font-size:12px; margin-top:12px; color:#555;">
+        By signing in, you agree to Amazon Clone's Conditions of Use and Privacy Notice.
+      </p>
+      <div class="auth-divider">New to Amazon Clone?</div>
+      <div class="auth-switch">
+        <button class="btn-auth" style="background:#e7e9ec; border-color:#adb1b8;" onclick="toggleAuth()">Create your Amazon Clone account</button>
+      </div>
+    </div>
+
+    <!-- SIGNUP FORM -->
+    <div class="auth-box hidden" id="signupBox">
+      <h1>Create Account</h1>
+      <div class="auth-error" id="signupError"></div>
+      <form id="signupForm">
+        <label for="signupName">Your name</label>
+        <input type="text" id="signupName" placeholder="First and last name" required>
+        <label for="signupEmail">Email</label>
+        <input type="email" id="signupEmail" placeholder="Enter your email" required>
+        <label for="signupPassword">Password</label>
+        <input type="password" id="signupPassword" placeholder="At least 6 characters" required minlength="6">
+        <label for="signupPasswordConfirm">Re-enter password</label>
+        <input type="password" id="signupPasswordConfirm" placeholder="Re-enter password" required>
+        <button type="submit" class="btn-auth">Create your Amazon Clone account</button>
+      </form>
+      <div class="auth-divider">Already have an account?</div>
+      <div class="auth-switch">
+        <a href="#" onclick="toggleAuth(); return false;" style="font-size:13px;">Sign in &#9656;</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom" style="margin-top:40px;">
+    &copy; 2026 Amazon Clone. This is a demo project for educational purposes only.
+  </div>
+
+  <script src="js/auth.js"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Electronics", "image": "https://via.placeholder.com/300x200?text=Electronics" },
+  { "id": 2, "name": "Books", "image": "https://via.placeholder.com/300x200?text=Books" },
+  { "id": 3, "name": "Clothing", "image": "https://via.placeholder.com/300x200?text=Clothing" },
+  { "id": 4, "name": "Home & Kitchen", "image": "https://via.placeholder.com/300x200?text=Home+Kitchen" },
+  { "id": 5, "name": "Sports & Outdoors", "image": "https://via.placeholder.com/300x200?text=Sports" },
+  { "id": 6, "name": "Toys & Games", "image": "https://via.placeholder.com/300x200?text=Toys+Games" }
+]
