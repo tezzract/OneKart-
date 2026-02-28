@@ -1,8 +1,8 @@
 [
-  { "id": 1, "name": "Electronics", "image": "https://via.placeholder.com/300x200?text=Electronics" },
-  { "id": 2, "name": "Books", "image": "https://via.placeholder.com/300x200?text=Books" },
-  { "id": 3, "name": "Clothing", "image": "https://via.placeholder.com/300x200?text=Clothing" },
-  { "id": 4, "name": "Home & Kitchen", "image": "https://via.placeholder.com/300x200?text=Home+Kitchen" },
-  { "id": 5, "name": "Sports & Outdoors", "image": "https://via.placeholder.com/300x200?text=Sports" },
-  { "id": 6, "name": "Toys & Games", "image": "https://via.placeholder.com/300x200?text=Toys+Games" }
+  { "id": 1, "name": "Electronics", "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=300&h=200&fit=crop" },
+  { "id": 2, "name": "Books", "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=300&h=200&fit=crop" },
+  { "id": 3, "name": "Clothing", "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=300&h=200&fit=crop" },
+  { "id": 4, "name": "Home & Kitchen", "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=300&h=200&fit=crop" },
+  { "id": 5, "name": "Sports & Outdoors", "image": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=300&h=200&fit=crop" },
+  { "id": 6, "name": "Toys & Games", "image": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?w=300&h=200&fit=crop" }
 ]
