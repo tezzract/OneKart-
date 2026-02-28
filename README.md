@@ -1,11 +1,11 @@
-# Amazon Clone
+#   OneKart
 
-A full-stack Amazon clone built with vanilla HTML/CSS/JS frontend and Node.js/Express backend.
 
-## Project Structure
+
+
 
 ```
-amazon-clone/
+OneKart-/
 ├── backend/          # Node.js Express API server
 │   ├── server.js     # Main server entry point
 │   ├── routes/       # API route handlers
