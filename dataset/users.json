@@ -26,5 +26,19 @@
       "country": "US"
     },
     "cart": []
+  },
+  {
+    "id": 3,
+    "name": "Yash",
+    "email": "test@gmail.com",
+    "password": "$2a$10$LuxIXB4Ze5HQ2tgHNPe0zeibILP7jAa1myGzz4XOeRERJTamyhksq",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "country": ""
+    },
+    "cart": []
   }
 ]
